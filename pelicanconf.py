@@ -20,10 +20,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-#         ('Python.org', 'http://python.org/'),
-#         ('Jinja2', 'http://jinja.pocoo.org/'),
-#         ('You can modify those links in your config file', '#'),)
+LINKS = (('Pelican', 'http://getpelican.com/'),
+         ('Python.org', 'http://python.org/'),
+         ('Jinja2', 'http://jinja.pocoo.org/'),
+         ('You can modify those links in your config file', '#'),)
 
 # Social widget
 SOCIAL = (('LinkedIn', 'https://www.linkedin.com/in/katieplaney/'),
@@ -54,7 +54,7 @@ SHOW_ARTICLE_CATEGORY=True
 SHOW_DATE_MODIFIED=True
 SHOW_ARTICLE_AUTHOR=False
 DISPLAY_ARTICLE_INFO_ON_INDEX=True
-BOOTSTRAP_NAVBAR_INVERSE=True
+#BOOTSTRAP_NAVBAR_INVERSE=True
 
 #SITELOGO = 'images/my_site_logo.png'
 #SITELOGO_SIZE
