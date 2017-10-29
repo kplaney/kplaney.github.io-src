@@ -36,6 +36,16 @@ DEFAULT_PAGINATION = 10
 
 
 #katie edited
+#plugins
+PLUGIN_PATHS = ['/code/pelican-plugins']
+#nbconvert error for 'liquid_tags.notebook',
+PLUGINS = ['i18n_subsites', 'liquid_tags.img', 'liquid_tags.video',
+           'liquid_tags.youtube', 'liquid_tags.vimeo',
+           'liquid_tags.include_code', 'related_posts', 'series']
+NOTEBOOK_DIR = 'notebooks'
+
+
+
 THEME = '/code/pelican-themes/pelican-bootstrap3/'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 I18N_TEMPLATES_LANG = 'en'
@@ -46,19 +56,11 @@ SHOW_ARTICLE_AUTHOR=False
 DISPLAY_ARTICLE_INFO_ON_INDEX=True
 BOOTSTRAP_NAVBAR_INVERSE=True
 
-#plugins
-PLUGIN_PATHS = ['/code/pelican-plugins']
-#nbconvert error for 'liquid_tags.notebook',
-PLUGINS = ['i18n_subsites', 'liquid_tags.img', 'liquid_tags.video',
-           'liquid_tags.youtube', 'liquid_tags.vimeo',
-           'liquid_tags.include_code', 'related_posts', 'series']
-NOTEBOOK_DIR = 'notebooks'
-
 #SITELOGO = 'images/my_site_logo.png'
 #SITELOGO_SIZE
-BANNER = '/code/kplaney.github.io-src/bridge.jpg'
+#BANNER = '/code/kplaney.github.io-src/bridge.jpg'
 BANNER_SUBTITLE = 'Building a data-centric biotech company'
-BANNER_ALL_PAGES = False
+#BANNER_ALL_PAGES = False
 GITHUB_USER = 'kplaney'
 PYGMENTS_STYLE = 'monokai'
 
