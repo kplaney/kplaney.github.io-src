@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>From the Ground Up - startup</title><link href="n/" rel="alternate"></link><link href="n/feeds/startup.atom.xml" rel="self"></link><id>n/</id><updated>2017-12-28T04:45:00-08:00</updated><entry><title>One year into a biotech startup: looking back</title><link href="n/one-year-in.html" rel="alternate"></link><published>2017-12-28T04:45:00-08:00</published><updated>2017-12-28T04:45:00-08:00</updated><author><name>Katie Planey</name></author><id>tag:None,2017-12-28:n/one-year-in.html</id><summary type="html">&lt;p&gt;Reflecting on the nonlinear path of business model discovery and&lt;/p&gt;</summary><content type="html">&lt;p&gt;renewed focus one year into a startup&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;One year has flown by at Mantra Bio&lt;/strong&gt;.  A little over a year ago, one of my
+co-Founders and I were working out of our apartments and just the precious bit of 
+personal savings we could give to Mantra Bio.  I had worked just long enough to 
+save up a meager PhD salary for one year post-taxes.  Since I had graduated from a PhD
+program roughly a year before, I knew I could live off that again. Maybe some day
+I\'d be content to actually accrue some personal savings and reap more immediate 
+financial rewards of my MBA and PhD degrees.  But I was fortunate to be raised by parents 
+that had taken financial risks early in their relationship to be able to provide
+my brothers and me with a more than comfortable childhood.  It made for a highly
+supportive environment while understanding that you need to take personal risks to 
+get personal gains. I had far more resources than my parents had started out with; 
+I will be the first to admit that getting a leg up early in life accelerates what 
+you can do down the road.  So continuing to live off a strict budget and do some
+side consulting if needed (necessary to survive a PhD in the Bay area if you do
+not want to live in dorm housing) did not seem a huge risk to me, even though I 
+had just turned 30. I had a supportive partner cheering me on, which meant the
+world to me.  I was acting more out of a feeling of loyalty and duty to my
+parents, and their grandparents, who ran small businesses like truck repair and
+dog grooming, and my alma maters of Yale and Stanford, who bestowed on me
+unimagineable opportunities. Onward and upward!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;One year in, what is most on my mind is how to truly harness the nonlinear
+learnings our team gleaned this past year&lt;/em&gt;.  I keep a company wiki documenting our
+technical strategy that I attempt to update every month or so; I think it is
+dangergous to view innovation and business/technical strategy as some black box,
+when really, it starts with a seed of an idea and grows with twists and turns with
+ideas from teammates and external forces. &lt;/p&gt;
+&lt;p&gt;My co-Founders and I are well-versed in the now-popular concepts of the Lean 
+Business Model and Agile Devleopment, both of which emphasize rapid iteration and 
+learning. It does no good to write out your business plan in a vacuum and then
+blindly follow it (finances aside, your employees are most likely too smart to
+know that does not work, either, even if you try and convince them otherwise! They
+are the people "on the ground" who can often be the most honest with you about
+whether your business model is both feasible and hitting an ideal market.) &lt;/p&gt;
+&lt;p&gt;So we did our best to keep our minds, eyes and ears open this past year, and our 
+core business and technical strategy did indeed evolve. What I am thinking about
+most these days is how to embrace the current iteration of our strategy without
+getting too weighed down by all of the hard work and learnings we did last year.
+It is a bit akin to an emotional sunk cost. For example, after taking a hard look
+at the strategy we all now truly believe is our North Star forward, we realized
+that a project we had been dedicating man-hours to on and off was actually pretty
+tangential to the core milestones we need to complete in the next two years. This 
+project in large part catapaulted us to even start Mantra Bio, so it felt weird to
+"retire" it. But with a small team, we cannot be chasing "zombie" projects or
+ideas. &lt;/p&gt;
+&lt;p&gt;I first heard the term "zombie" in this respect in a Biodesign class at
+Stanford; a serial medical device entrepreneur urged us to hunt down and kill
+"zombie" ideas as quickly as possible. This person was not focused on a single
+business plan, but rather just wanted to find some sort of medical device that had
+legs, but the overall concept stuck with me. Sometimes what kills a project is financial,
+sometimes technical, sometimes regulatory, etc.  It does not matter if the idea in
+theory sounds great or "sexy". If it does not help you achieve your end strategic
+milestones, you need to chuck it quickly.  If it is truly a sunk cost, suck it up
+and admit it. &lt;/p&gt;
+&lt;p&gt;Deciding on your milestones is a whole separate thread, and of coures this evolves, 
+but your team needs to be hyper-focused.  You have to communicate the core, single focus 
+and how this focus is achieved through the milestones, in order to empower your
+employees to make day-to-day decisions that help the team achieve that core focus.
+Otherwise, you will end up with a lot of hard work but deliverables that do not
+quite synce together. &lt;/p&gt;
+&lt;p&gt;This is especially critical in biotech;  everyone is an
+expert in a different scientific or technical area. It is all hands-on deck and to
+make matters more complicated, your team works in physically separate spaces (wet
+lab research scientists in the lab and product and data engineers and scientists
+in the office). In some ways, you have to act like a bigger company earlier than
+say a software company.  You cannot easily switch research projects halfway through 
+(even ordering new reagents can slow things down) and
+most tasks are not transferrable across team members, so you have to plan and
+communicate very carefully, even with a small team. &lt;/p&gt;
+&lt;p&gt;Even with a small five-person team, as we enter 2018, our team at Mantra Bio 
+is taking care to view the year as a "fresh" slate. We are letting our refined 
+busines and technical strategy, honed over this past year, guide exactly what we 
+need to achieve, instead of carrying baggage from projects and efforts put forth 
+in 2017.  And we condensed that down into a single, one-sentence focus that we
+shared with the team before everyone left for the holidays. &lt;/p&gt;
+&lt;p&gt;This does not equate to a massive shift at Mantra Bio. Communication of strategic
+shifts across the team should be given regularly, in part to allow for feedback. 
+And thus the team should mostly nod their heads
+when presented a clarified view of the next set of milestones! But we want it to
+be crystal-clear to everyone on our team that now, all projects and efforts must
+sync up with our singular focus. No one was "off-topic" before, but for us it is
+akin to "cleaning house".  And we will re-visit the focus and milestones during
+our biweekly sprint reviews, a part of &lt;a href="https://www.forbes.com/sites/stevedenning/2016/09/08/explaining-agile/"&gt;agile
+development&lt;/a&gt;.
+We want to focus and cut out the fat, which should also
+give teammates more bandwidth to just get sh** done.&lt;/p&gt;</content><category term="startup"></category><category term="biotech"></category><category term="strategy"></category></entry></feed>
